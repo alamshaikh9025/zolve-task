@@ -2,7 +2,7 @@
 
 To view love demonstration of this website click here: [ZOLVE](https://alam-zolve-tasks.netlify.app/)
 
-ABout:
+About:
     -The React App uses React Router to create navigation routing which is seamless and helps to create and simplify a single page application .<br>
     -Used Api to fetch database from stack exchange for data representation.
     <br>
