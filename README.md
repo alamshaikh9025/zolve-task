@@ -1,6 +1,6 @@
 # React + Vite
 
-To view love demonstration of this website click here: [ZOLVE](https://alam-zolve-tasks.netlify.app/)
+To view live demonstration of this website click here: [ZOLVE](https://alam-zolve-tasks.netlify.app/)
 
 About:
     -The React App uses React Router to create navigation routing which is seamless and helps to create and simplify a single page application .<br>
