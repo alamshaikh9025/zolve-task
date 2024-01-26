@@ -6,7 +6,7 @@ About:
     -The React App uses React Router to create navigation routing which is seamless and helps to create and simplify a single page application .<br>
     -Used Api to fetch database from stack exchange for data representation.
     <br>
-    -Also has a simplified camera app to capture photos , edit them and uplod them (dummy upload)
+    -Also has a simplified camera app to capture photos , edit and upload them (dummy upload)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
